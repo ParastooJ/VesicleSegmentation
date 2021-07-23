@@ -1,4 +1,4 @@
-### Coupled autoencoders for M, E, and T analysis
+### Vesicle Segmentation
 
 Objectives:
  - Segment vesicles in axon by implementing Mask RCNN neural net. 
