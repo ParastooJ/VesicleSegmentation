@@ -21,18 +21,16 @@ pip install seaborn pandas
 ```
 3. Install the development version of this repository
 ```bash
-pip install -e .
+pip install.
 ```
 
 4. Install the `MRCNN` repository.  
 ```bash
 # can do this within any directory on local machine
 git clone https://github.com/AllenInstitute/..
-cd coupledAE-patchseq
-pip install -e .
+cd MRCNN
+pip install.
 ```
-
-### Experiments
 
 
 ### Additional repositories
